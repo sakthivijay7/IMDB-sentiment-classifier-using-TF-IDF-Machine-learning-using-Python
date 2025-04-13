@@ -18,7 +18,9 @@ Also classification report precision FP,recall FN,f1 score.
 Logistic regression achieve the validation accuracy 88% and test accuracy 87%.
 Logistic regression classifier high precision,recall ,f1 score fewer of FP,FN then perform well.
 Final use:
-Trained model can  new_user reviews input to classify  as Positive or Negative.
+Trained model can  new_user reviews input to classify  as Positive or Negative. and also
+streamlit  web app for clear visual classify.
+![imdb](https://github.com/user-attachments/assets/c6f42ac7-b56f-4032-b7f9-58c528e7a9a0)
 
 
 
