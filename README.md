@@ -11,7 +11,7 @@ validation accuracy,test accuracy for the model performance and comparision.
 Also classification report precision FP,recall FN,f1 score.
 Logistic regression achieve the validation accuracy 88% and test accuracy 87%.
 Logistic regression classifier high precision,recall ,f1 score fewer of FP,FN then perform well.
-Final user review text input to classify if positive 1 & negative 0.
+Final user review text input to classify  if positive or negative.
 
 
 
